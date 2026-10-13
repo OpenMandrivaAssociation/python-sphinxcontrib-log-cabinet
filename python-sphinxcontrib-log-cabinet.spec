@@ -3,7 +3,7 @@
 
 Name:		python-sphinxcontrib-log-cabinet
 Version:	1.0.1
-Release:	1
+Release:	2
 Summary:	Organize changelog directives in Sphinx docs
 License:	BSD-3-Clause
 Group:		Development/Python
